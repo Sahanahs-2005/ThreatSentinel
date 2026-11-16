@@ -1,0 +1,26 @@
+# Secrets
+.env
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Trained model (recreate with: python train_model.py)
+models/
+
+# Empty dataset file
+dataset/prompts.csv
+
+# Editor and tool folders
+.sf/
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
